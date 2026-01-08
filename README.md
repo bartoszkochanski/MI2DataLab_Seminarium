@@ -17,10 +17,10 @@ Join us at https://meet.drwhy.ai.
 * 03.11 - [ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_11_03_concept_attention/Concept_Attention.pdf) - Jakub Grzywaczewski
 * 17.11 - [Counterfactual Explanations on Robust Perceptual Geodesics](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_11_17_pcg/pcg.pdf) - Bartek Sobieski
 * 24.11 - Monthly sync meeting (Paulina Tomaszewska, Paweł Struski, Vladimir Zaigrajew)
-* 01.12 - Dawid Płudowski
-* 08.12 - Kamil Książek
+* 01.12 - ImageNet-trained CNNs are not biased towards texture: Revisiting feature reliance through controlled suppression - Dawid Płudowski
+* 08.12 - Attention (as Discrete-Time Markov) Chains - Kamil Książek
 * 15.12 - Monthly sync meeting (Bartek Sobieski, Jakub Grzywaczewski, Michał Włodarczyk)
-* 12.01 - Agata Kaczmarek
+* 12.01 - Emergent Misalignment + mitigations (inoculation prompting + persona features) - Jan Piotrowski
 * 19.01 - Monthly sync meeting (Kamil Książek, Bartosz Kochański, Agata Kaczmarek)
 * 19.01 - Retro meeting
 
