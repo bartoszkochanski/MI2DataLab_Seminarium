@@ -6,6 +6,10 @@ Join us at https://meet.drwhy.ai.
 
 ## Year 2025/2026
 
+### Spring semester
+
+23.02 - invited lecture by [Maximilian Dreyer](https://www.maxdreyer.de/)
+
 ### Fall semester
 
 #### Schedule
@@ -17,12 +21,17 @@ Join us at https://meet.drwhy.ai.
 * 03.11 - [ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_11_03_concept_attention/Concept_Attention.pdf) - Jakub Grzywaczewski
 * 17.11 - [Counterfactual Explanations on Robust Perceptual Geodesics](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_11_17_pcg/pcg.pdf) - Bartek Sobieski
 * 24.11 - Monthly sync meeting (Paulina Tomaszewska, Paweł Struski, Vladimir Zaigrajew)
-* 01.12 - Dawid Płudowski
-* 08.12 - Kamil Książek
+* 01.12 - [ImageNet-trained CNNs are not biased towards texture: Revisiting feature reliance through controlled suppression](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_12_01_ImageNet_trained_CNNs_are_not_biased_towards_texture/2025_12_01_ImageNet_trained_CNNs_are_not_biased_towards_texture.pdf) - Dawid Płudowski
+* 08.12 - [Attention (as Discrete-Time Markov) Chains](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_12_08_attention_markov_chains/attention_markov_chains.pdf) - Kamil Książek
 * 15.12 - Monthly sync meeting (Bartek Sobieski, Jakub Grzywaczewski, Michał Włodarczyk)
 * 12.01 - [Emergent Misalignment: Controlling Persona Drift with Vectors and Inoculation](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_01_12-mitigation-of-emergent-misalignment.pdf) - Jan Piotrowski
 * 19.01 - Monthly sync meeting (Kamil Książek, Bartosz Kochański, Agata Kaczmarek)
 * 19.01 - Retro meeting
+
+#### Invited lectures
+
+* 09.02 - [Jan Betley](https://www.janbetley.net/) and [Anna Sztyber-Betley](https://repo.pw.edu.pl/info/author/WUT60693/Profil+osoby+%E2%80%93+Anna+Sztyber-Betley+%E2%80%93+Politechnika+Warszawska)
+* 16.02 - [Jeremi Ochab](http://cs.if.uj.edu.pl/jeremi/)
 
 ## Year 2024/2025
 
