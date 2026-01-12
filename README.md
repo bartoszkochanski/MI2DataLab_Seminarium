@@ -6,6 +6,10 @@ Join us at https://meet.drwhy.ai.
 
 ## Year 2025/2026
 
+### Spring semester
+
+23.02 - invited lecture by [Maximilian Dreyer](https://www.maxdreyer.de/)
+
 ### Fall semester
 
 #### Schedule
@@ -23,6 +27,11 @@ Join us at https://meet.drwhy.ai.
 * 12.01 - Emergent Misalignment + mitigations (inoculation prompting + persona features) - Jan Piotrowski
 * 19.01 - Monthly sync meeting (Kamil Książek, Bartosz Kochański, Agata Kaczmarek)
 * 19.01 - Retro meeting
+
+#### Invited lectures
+
+* 09.02 - [Jan Betley](https://www.janbetley.net/) and [Anna Sztyber-Betley](https://repo.pw.edu.pl/info/author/WUT60693/Profil+osoby+%E2%80%93+Anna+Sztyber-Betley+%E2%80%93+Politechnika+Warszawska)
+* 16.02 - [Jeremi Ochab](http://cs.if.uj.edu.pl/jeremi/)
 
 ## Year 2024/2025
 
