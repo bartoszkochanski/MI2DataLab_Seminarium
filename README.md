@@ -24,7 +24,7 @@ Join us at https://meet.drwhy.ai.
 * 01.12 - [ImageNet-trained CNNs are not biased towards texture: Revisiting feature reliance through controlled suppression](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_12_01_ImageNet_trained_CNNs_are_not_biased_towards_texture/2025_12_01_ImageNet_trained_CNNs_are_not_biased_towards_texture.pdf) - Dawid Płudowski
 * 08.12 - [Attention (as Discrete-Time Markov) Chains](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_12_08_attention_markov_chains/attention_markov_chains.pdf) - Kamil Książek
 * 15.12 - Monthly sync meeting (Bartek Sobieski, Jakub Grzywaczewski, Michał Włodarczyk)
-* 12.01 - Emergent Misalignment + mitigations (inoculation prompting + persona features) - Jan Piotrowski
+* 12.01 - [Emergent Misalignment: Controlling Persona Drift with Vectors and Inoculation](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_01_12-mitigation-of-emergent-misalignment.pdf) - Jan Piotrowski
 * 19.01 - Monthly sync meeting (Kamil Książek, Bartosz Kochański, Agata Kaczmarek)
 * 19.01 - Retro meeting
 
