@@ -30,8 +30,8 @@ Join us at https://meet.drwhy.ai.
 
 #### Invited lectures
 
-* 09.02 - LLMs learn surprising things - [Jan Betley](https://www.janbetley.net/) and [Anna Sztyber-Betley](https://repo.pw.edu.pl/info/author/WUT60693/Profil+osoby+%E2%80%93+Anna+Sztyber-Betley+%E2%80%93+Politechnika+Warszawska)
-* 16.02 - Detection of machine generated texts – data sets, methods and a stylometric viewpoint - [Jeremi Ochab](http://cs.if.uj.edu.pl/jeremi/)
+* 09.02 - [Jan Betley](https://www.janbetley.net/) and [Anna Sztyber-Betley](https://repo.pw.edu.pl/info/author/WUT60693/Profil+osoby+%E2%80%93+Anna+Sztyber-Betley+%E2%80%93+Politechnika+Warszawska)
+* 16.02 - [Jeremi Ochab](http://cs.if.uj.edu.pl/jeremi/)
 
 ## Year 2024/2025
 
